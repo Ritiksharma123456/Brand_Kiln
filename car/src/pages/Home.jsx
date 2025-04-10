@@ -1,7 +1,7 @@
 
 import React, { useEffect, useState } from "react";
 import CarCard from "../components/CarCard";
-import carsData from "../data/cars.json"; // ✅ correct import if in src/data
+import carsData from "../data/cars.json"; 
 
 const Home = ({ wishlist, addToWishlist, removeFromWishlist }) => {
   const [cars, setCars] = useState([]);
