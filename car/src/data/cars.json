@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "Mahindra Scorpio N",
+    "brand": "Mahindra",
+    "fuel": "Diesel",
+    "price": 1500000,
+    "seating": 7,
+    "image": "/images/scorpio.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Maruti Baleno",
+    "brand": "Maruti",
+    "fuel": "Petrol",
+    "price": 900000,
+    "seating": 5,
+    "image": "/images/maruti-baleno.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Tata Nexon",
+    "brand": "Tata",
+    "fuel": "Petrol",
+    "price": 1000000,
+    "seating": 5,
+    "image": "/images/tata-nexon.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Hyundai Creta",
+    "brand": "Hyundai",
+    "fuel": "Petrol",
+    "price": 1300000,
+    "seating": 5,
+    "image": "/images/hyundai-creta.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Honda City",
+    "brand": "Honda",
+    "fuel": "Petrol",
+    "price": 1200000,
+    "seating": 5,
+    "image": "/images/honda-city.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Renault Kwid",
+    "brand": "Renault",
+    "fuel": "Petrol",
+    "price": 550000,
+    "seating": 5,
+    "image": "/images/renault-kwid.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Maruti Swift",
+    "brand": "Maruti",
+    "fuel": "Petrol",
+    "price": 650000,
+    "seating": 5,
+    "image": "/images/maruti-swift.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Hyundai i20",
+    "brand": "Hyundai",
+    "fuel": "Petrol",
+    "price": 850000,
+    "seating": 5,
+    "image": "/images/i20.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Kia Seltos",
+    "brand": "Kia",
+    "fuel": "Petrol",
+    "price": 1100000,
+    "seating": 5,
+    "image": "/images/kia-seltos.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Toyota Fortuner",
+    "brand": "Toyota",
+    "fuel": "Diesel",
+    "price": 3500000,
+    "seating": 7,
+    "image": "/images/fortuner.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Tata Punch",
+    "brand": "Tata",
+    "fuel": "Petrol",
+    "price": 700000,
+    "seating": 5,
+    "image": "/images/punch.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Mahindra XUV700",
+    "brand": "Mahindra",
+    "fuel": "Diesel",
+    "price": 2000000,
+    "seating": 7,
+    "image": "/images/xuv700.jpg"
+  }
+]
